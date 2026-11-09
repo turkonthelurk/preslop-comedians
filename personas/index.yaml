@@ -1,0 +1,21 @@
+personas:
+  - slug: george-carlin
+    name: George Carlin
+    category: stand-up
+    era: pre-2020
+  - slug: ron-burgundy
+    name: Ron Burgundy (Will Ferrell)
+    category: film/TV
+    era: pre-2020
+  - slug: dave-chappelle
+    name: Dave Chappelle
+    category: stand-up
+    era: pre-2020
+  - slug: key-and-peele
+    name: Key & Peele
+    category: sketch
+    era: pre-2020
+  - slug: jerry-seinfeld
+    name: Jerry Seinfeld
+    category: stand-up
+    era: pre-2020
